@@ -1,4 +1,4 @@
-# Marjeting Analytics Coursera
+# Markting Analytics Coursera
 
 Organizations large and small are inundated with data about consumer choices. But that wealth of information does not always translate into better decisions. Knowing how to interpret data is the challenge -- and marketers in particular are increasingly expected to use analytics to inform and justify their decisions. 
 
